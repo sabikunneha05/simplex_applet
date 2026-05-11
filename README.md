@@ -4,7 +4,7 @@ An interactive web application built with **Python + Flask** that solves Linear 
 
 ---
 
-## 🖼️ Features
+##  Features
 
 - ✅ Accepts any LP problem in **canonical/standard form** (maximization)
 - ✅ Automatically adds **slack variables**
@@ -18,7 +18,7 @@ An interactive web application built with **Python + Flask** that solves Linear 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -50,7 +50,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 The app is deployed and publicly accessible at:
 
@@ -113,7 +113,7 @@ Subject to: 6x₁ + 4x₂ ≤ 24
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 simplex-solver/
@@ -155,7 +155,7 @@ The entire application — Flask backend, Simplex engine, and HTML/CSS/JS fronte
 
 ---
 
-## 🧪 Built With
+##  Built With
 
 - [Python 3](https://www.python.org/) — Core language
 - [Flask](https://flask.palletsprojects.com/) — Lightweight web framework
@@ -164,10 +164,10 @@ The entire application — Flask backend, Simplex engine, and HTML/CSS/JS fronte
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Sabikunneha**
-- GitHub: [@YOURUSERNAME](https://github.com/YOURUSERNAME)
+- GitHub: [@YOURUSERNAME](https://github.com/sabikunneha05)
 
 ---
 
