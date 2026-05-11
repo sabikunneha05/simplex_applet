@@ -167,7 +167,7 @@ The entire application — Flask backend, Simplex engine, and HTML/CSS/JS fronte
 ## Author
 
 **Sabikunneha**
-- GitHub: [@YOURUSERNAME](https://github.com/sabikunneha05)
+- GitHub: [@sabikunneha05](https://github.com/sabikunneha05)
 
 ---
 
